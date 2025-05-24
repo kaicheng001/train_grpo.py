@@ -4,7 +4,7 @@ GRPO Training Script for Qwen Model on GSM8K Dataset
 
 ## Overview
 
-This script trains a **Qwen** model using the **GRPO (Generalized Reinforcement Policy Optimization)** method on the **GSM8K** (Generalized Math 8K) dataset. The script leverages **transformers**, **PEFT** (Parameter-Efficient Fine-Tuning), and **TRL** (Transformers Reinforcement Learning) libraries to fine-tune the model with reinforcement learning techniques focused on one-shot prompting.
+This script trains a **Qwen** model using the **GRPO (Group Relative Policy Optimization)** method on the **GSM8K** (Grade School Math 8K) dataset. The script leverages **transformers**, **PEFT** (Parameter-Efficient Fine-Tuning), and **TRL** (Transformer Reinforcement Learning) libraries to fine-tune the model with reinforcement learning techniques focused on one-shot prompting.
 
 ## Features
 
